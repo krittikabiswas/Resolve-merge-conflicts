@@ -1,54 +1,36 @@
-<header>
+# 🌟 Another Git Fly — Merge Conflict Exploration 🐙✨
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-# Resolve merge conflicts
+  <img src="https://octodex.github.com/images/steroidtocat.png" width="300" />
 
-_Learn why conflicts happen and how to resolve them._
+  <div>
+    <h3>🚀 About This Repo 🧩</h3>
+    This repo is a small hands-on experiment on a random Sunday morning in my hostel room where I explored how Git reacts when two branches modify the same file differently. 🫶<br><br>
+    I intentionally created merge conflicts to understand how to fix them cleanly 🧹 and manage branches with clarity and confidence 🌱.
+  </div>
 
-</header>
-
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
-
-## Finish
-
-_Congratulations friend, you've completed this course!_
-
-<img src=https://octodex.github.com/images/benevocats.jpg alt=celebrate width=300 align=right>
-
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You learned why merge conflicts happen.
-- You resolved a simple merge conflict.
-- You created a merge conflict, and resolved it!
-
-### What's next?
-
-- Make your own Markdown resume site with GitHub Pages! Learn how in our [GitHub Pages](https://github.com/skills/github-pages) course.
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/resolve-merge-conflicts).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+</div>
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/resolve-merge-conflicts) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+##  What I Did Actually💪💪  
+- 🌿 Created and switched between branches  
+- ✏️ Made different edits to the same file  
+- 💥 Triggered merge conflicts  
+- 🪄 Resolved them manually  
+- 🔗 Merged everything cleanly  
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+---
 
-</footer>
+##  Skills Practiced💅💅  
+- 🌱 Git branching  
+- 📬 Pull requests  
+- 🛠️ Conflict resolution  
+- 🧼 Clean version management  
+
+---
+
+##  Final Note✨✨  
+A tiny experiment but a surprisingly insightful one.. hehe, at least I am happyyyyy 😭💛  
+More Git explorations gonna be doing 🤌🚀
